@@ -1,0 +1,195 @@
+@media(max-width: 480px)
+{
+	.container
+	{
+	
+	width: 100%;
+	}
+	#about .img2,.img1
+	{
+		width: 80%;
+		overflow: hidden;
+	}
+	#about .about-content
+	{
+		margin-top: 20px;
+	}
+
+	#contact textarea, #contact .subject {
+    width: 366px;
+}
+.textarea {
+    margin-top: 20px;
+    margin-left: -10px;
+    width: 530px;
+    border: 1px solid #cfdcdf;
+    text-transform: capitalize;
+    text-align: center;
+    padding: 2px;
+}
+
+	#HireMe
+{
+  background-color:#2e6982;
+  padding: 5px 20px 5px 20px;
+  margin-left: -32px;
+  color: #fff;
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 25px;
+  font-weight: bolder;
+border-radius: 15px;
+
+}
+}
+@media(max-width: 480px)
+{
+  #works .link-project
+  {
+    
+  margin-left: 90px;
+  }
+}
+@media(max-width: 480px)
+{
+	#works .pro-des.pro1
+	{
+		display: none;
+top: 209px;
+left: 160px;
+
+	}
+	#works .pro-des.pro2
+	{
+		display: none;
+top: 247px;
+left:170px;
+
+	}
+
+/*	#works .pro1
+	{
+margin-left: -42px;
+margin-top: -48px;
+	}
+	#works .pro2
+	{
+margin-left: -38px;
+margin-top: -4px;
+	}
+*/}
+@media(max-width: 480px)
+{
+	#contact .address1 ,#contact .ph1  ,#contact .email1
+	{
+		margin-left: 0;
+	}
+}
+@media(max-width: 480px)
+{
+	#contact textarea,#contact .subject
+	{
+		width: 400px;
+	}
+	#contact .email
+	{
+		margin-left: 4px;
+	}
+}
+@media(max-width: 480px)
+{
+.bg1
+{
+	background:  #123038 ;
+
+}
+}
+@media(max-width: 480px)
+{
+ .Social-icons li
+	{
+float: left;
+	display: inline;
+	}
+	#home .nav-mid 
+	{
+		margin-left: 0;
+		overflow: hidden;
+	}
+	#home .nav-mid li
+	{
+	
+		border-bottom: 1px solid #fff;
+		width: 98%;
+	} 
+	#home
+	{
+		overflow: hidden;
+	}
+}
+.navbar-default .navbar-toggle {
+   border-color:#123038;
+
+}
+@media(max-width: 480px)
+{
+	.banner-txt h1{
+		margin-top: 113%;
+		margin-left: -19%;
+
+	}
+}
+@media(max-width: 480px)
+{
+	.container
+	{
+		overflow: hidden;
+	}
+}
+
+@media(max-width: 480px)
+{
+	#footer ul
+	{
+ 
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+}
+@media(max-width: 480px)
+{
+	.link-project
+	{
+		display: none;
+	}
+
+
+	.banner-txt {
+    margin-left: 40%;
+    margin-top: -13%;
+}
+}  
+
+
+@media(max-width: 375px)
+{
+	#contact textarea, #contact .subject {
+    width: 355px;
+}
+
+
+#footer {
+    background: #361e1e;
+    margin-top: 10px;
+    padding-top: 39px;
+    padding-bottom: 5px;
+}
+
+
+.banner-txt {
+    margin-left: 40%;
+    margin-top: -13%;
+}
+
+}
